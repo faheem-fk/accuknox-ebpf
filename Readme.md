@@ -28,8 +28,8 @@ These scripts have been tested and validated on a Debian Bookworm Linux system, 
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone git@github.com:faheem-fk/accuknox-ebpf.git
+   cd accuknox-ebpf
    ```
 
 2. **Configuration:**
